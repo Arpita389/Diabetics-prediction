@@ -1,2 +1,2 @@
-# My first Ml Project 
+# My first Machine Learning Project 
 ## Diabetes Prediction 
